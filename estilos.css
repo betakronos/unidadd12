@@ -1,0 +1,1046 @@
+html, body{
+	margin: 0;
+    scroll-behavior: smooth;
+}
+
+header, section, footer{
+	width:960px;
+	margin-left:auto ;
+	margin-right: auto;
+	
+
+}
+
+header{
+	height: 250px;
+	position: sticky;
+	top: 10px;
+	
+    
+	
+	
+	
+}
+
+h2 {
+	text-align: center;
+	color: antiquewhite;
+}
+
+#Inicio{
+	height: 300px;
+	
+	
+
+}
+
+
+#Inicio img{
+	width: 100%;
+	
+	
+} 
+
+#Reproductormp3{
+	width: 300px;
+	position: absolute;
+	right:210px;
+	top:10px;
+}
+
+
+
+
+#Sobre_la_serie{
+    height: 900px;
+	background-color: black ;
+	
+}
+
+
+
+
+
+#caja_cont1, #caja_cont2{
+	width:450PX;
+	height:570px;
+	float: left;
+	margin: 30px 14px;
+		
+	
+	
+
+
+
+
+}
+
+
+	 
+
+#content{
+	width:400px;
+	float: left;
+	box-sizing: border-box;
+	padding: 5px;
+	margin: 25px;
+	
+
+	
+	
+
+
+
+    
+}
+
+#content img{
+	width: 100%;
+
+
+
+}
+
+#content2{
+	width:400px;
+	float: left;
+	padding: 0;
+	margin: 25px;
+	
+
+	
+	
+
+
+
+    
+}
+
+#content2 img{
+	width: 100%;
+
+
+
+}
+	
+
+	
+
+#content3{
+	width:400px;
+	float: left;
+	padding: 0px;
+	margin: 23px;
+	
+	
+
+
+
+    
+}
+#content3 img{
+	width: 100%;
+
+
+
+}
+
+#content4{
+	width:400px;
+	float: left;
+	padding: 0;
+	margin: 25px;
+	
+	
+	
+
+
+
+    
+}
+#content4 img{
+	width: 100%;
+
+
+
+}
+
+
+
+
+
+
+
+#Twddescripcion{
+    width:940px;
+	height:225px;
+	margin: 30px 14px;
+	padding: 0px;
+    color: whitesmoke;
+	
+}
+
+
+#Contenido{
+    height: 950px;
+	background-color: black;
+}
+#caja_cont4, #caja_cont5, #caja_cont6, #caja_cont7{
+	width: 380px;
+	height: 380px;
+	margin:30px 50px;
+	float:left;
+	
+	
+
+
+
+}
+
+#caja_cont4{
+	 box-sizing: border-box;
+	 font-size: 20px;	
+	 color:whitesmoke;
+
+
+	 
+    
+}
+
+#text_4{
+	float:left;
+	width: 340px;
+	height: 340px;
+	margin:20px;
+	text-align:central;
+	
+}
+
+#text_4 h4{
+	color:crimson;
+	background-color: greenyellow;
+}
+
+
+
+#caja_cont5 img{
+	width:100%;
+	margin-top:50px;
+	
+}
+
+
+
+#caja_cont5 a{
+text-decoration: none;
+color:antiquewhite;
+text-align:center;
+background-color: darkblue; 
+height: 30px;
+width: 200px;
+float: left;
+border-radius: 10px; 
+font-size: 13px;
+
+
+
+
+    
+}
+
+
+#caja_cont5 a:hover{
+	background-color: grey;
+	
+}
+
+#caja_cont6{
+	color:whitesmoke;
+	font-size: 17px;
+	
+}
+
+
+
+
+
+
+#caja_cont7 video{
+	width:100%;
+	margin-top:90px;
+	
+}
+
+
+
+#Videos{
+	height: 980px;
+	background-color: black;
+}
+
+#caja_cont8, #caja_cont9{
+	margin: 30px 30px;
+	
+}
+
+#caja_cont8{
+    width:800px;
+	height:400px;
+	float:left;
+	padding-right: 90px;
+	margin: 120px;
+
+	
+	
+}
+	
+#caja_cont9{
+	
+	float:left;
+	width:900px;
+	height:200px;
+
+}		
+	
+#twd_info{
+	height: 1050px;
+	background-color: black;
+	
+}
+
+#mod1_info{
+	height: 650px;
+	background-color: black;
+	
+	
+}
+
+
+
+
+#mod2_info{
+	height: 200px;
+	
+	
+}
+
+
+
+
+
+	#Redes{
+	width:  960px;
+	height: 450px;
+	background-color: black;
+
+	
+
+}
+
+#Social_media{
+	float:left;
+	width:200px;
+	height:400px;
+	margin:50px 23px;
+	color: whitesmoke;
+	text-align: center;
+
+
+}	
+
+#Social_media img{
+	width: 20%
+
+
+    
+
+}
+
+#Contact_us{
+	float:left;
+	width:400px;
+	height:140px;
+    margin:40px 10px;
+	position: relative;
+	top:60px;
+	color: whitesmoke;
+	text-align: center;
+
+}	
+
+#Contact_us img{
+	width: 25%;
+}
+
+
+
+
+#Sobre_nosotros{
+	
+	float:left;
+	width:255px;
+	height:200px;
+	margin:40px 10px;
+	color: whitesmoke;
+	text-align: left;
+
+}
+#marca{
+	width: 160px;
+	height: 100px;
+	float: left;
+	margin: 5px;
+	margin-right: 500px;
+	position: relative;
+	bottom: 10px;
+	left: 40px;
+
+    
+	
+}
+
+#marca img{
+	height: 120%;
+	padding: 0px;
+	margin: 0px;
+
+	
+}
+
+div {
+	animation-name: Logo;
+	animation-duration: 3s;
+	animation-delay: 2s;
+}
+
+@keyframes Logo{
+	from{
+		left: -900px;
+		
+	}
+	to{
+	
+		right: 0;
+	}
+}
+
+#botonera{
+	width: 950px;
+    height: 40px;
+    float: left;
+    margin: 5px;
+    clear: left;
+    position: relative;
+    bottom: 0px;   
+	font-family: Tungsten;
+
+    
+
+    
+   
+
+
+}
+#botonera ul {
+	margin:  4px;
+	padding: 4px;
+	list-style-type: none;
+	display: flex;
+	font-family: Tungsten;
+
+
+    
+
+
+}
+
+#botonera ul li{ 
+	flex-grow: 1;
+	
+}
+
+#botonera ul li a {
+	display: block;
+	text-decoration: none;
+	text-align: center;
+	color: whitesmoke;
+	font-family: Tungsten;
+	
+
+
+}
+
+#botonera li a:hover {
+	background-color: grey;
+	
+}
+
+@font-face{
+	font-family: 'Tungsten';
+	src: url(fonts/tungsten-font/Tungsten-Semibold-1.ttf) 
+	format('truetype'), url(fonts/tungsten-font/Tungsten-Black.otf);
+
+}
+
+
+
+#contactos {width: 370px;
+    height: 100px;
+    float: left;
+    margin: 10px;
+    padding: 0;
+    position: absolute;
+    bottom: 160px;
+    right: -10px;
+    font-family: 'Oswald', sans-serif;
+    
+    
+
+}
+
+#contactos {
+	text-align: center;
+    
+    color: whitesmoke;
+   
+}
+
+input{
+	margin-bottom: 10px;
+}
+
+.bg_white{
+	background-color: whitesmoke;
+}
+
+.bg_white:hover{
+	background-color: gray;
+}
+ 
+@media all and (min-width: 600px) and (max-width: 1023px) {
+	
+	header, section, footer{
+		width:580px;
+		
+	
+	}
+	
+	#Inicio{
+		height: 80px;
+        
+		
+	
+	}
+	
+	
+	
+	#Reproductormp3{
+		width: 300px;
+		top:300px;
+		left:360px;
+	
+	}
+	
+	
+	
+	#Sobre_la_serie{
+		height: 700px;
+		
+	}
+	
+	
+	
+	
+	
+	
+#caja_cont1, #caja_cont2{
+	width:250px;
+	height:380px;
+	margin:10px;
+	
+
+}
+ 
+
+#content{
+	width:260px;
+	margin:10px;   
+}
+
+
+#content2{
+	width:250px;
+	
+    
+}
+	
+
+#content3{
+	width:250px;
+
+    
+}
+
+#content4{
+	width:250px;
+	
+	}
+
+	#Twddescripcion{
+		width:540px;
+		margin: 30px;
+	}
+	
+	
+	#Contenido{
+		height: 890px;
+	
+	}
+	#caja_cont4, #caja_cont5, #caja_cont6, #caja_cont7{
+		width: 190px;
+		height:190px;
+		
+		
+	
+	
+	
+	}
+
+
+   #text_4{
+	   float:left;
+	   width: 180px;
+	   height: 180px;
+	   margin:5px;
+	   font-size: 12px;
+	   
+   }
+		
+
+	#Videos{
+		height: 830px;
+	}
+	
+	#caja_cont6{
+		width: 210px;
+		font-size: 13px;
+	}
+
+	#caja_cont7{
+		width: 210px;	
+	    position: relative;
+		bottom:190px;
+		left:270px;
+	}
+
+	#caja_cont8{
+		width:460px;
+		height:300px;
+		padding: 30px;
+		margin:61px;
+		
+	
+		
+		
+	}
+		
+	#caja_cont9{
+		width:520px;
+		height:300px;
+	
+		
+	}		
+		
+	#twd_info{
+		height: 1630px;
+
+
+	}
+
+	#mod1_info{height: 780px;
+
+	}
+			
+		#Redes{
+		width:  580px;
+		height: 480px;
+	
+		
+	
+	}
+	
+	#Social_media{
+		width:140px;
+		height:150px;
+
+	
+	}	
+	
+	
+	
+	#Contact_us{
+		width:200px;
+		height:140px;
+		
+	
+	}	
+	
+	
+	#Sobre_nosotros{
+		width:150px;
+		
+	
+	}
+	#marca{
+		width: 160px;
+	
+		
+		
+	}
+	
+	
+	#botonera{
+		width: 580px;   
+	
+	}
+	
+	
+	
+	
+	#contactos {width: 370px;
+		height: 100px;
+		margin: 50px;
+		padding:10px
+		
+		
+	
+	}
+
+} /*fin @media a 1023 */
+
+@media all and (max-width:599px){
+	
+header, section, footer{
+		width:100%;
+		
+	
+	}
+
+
+header{
+	
+	background-image: url(images/rick2.gif);
+	height: 30%;
+	position: relative;
+	
+
+
+		
+	
+}
+
+
+
+#Inicio{
+	
+	display: none;
+	
+}
+
+
+#Reproductormp3{
+	display:none
+}
+
+
+
+
+
+
+#caja_cont1, #caja_cont2{
+	width: 30%;
+	height: 90px;
+	margin:20px 30px;
+	
+	
+	
+		
+
+}
+
+#caja_cont1{
+	position: absolute;
+	
+}
+
+#caja_cont2{
+	position: relative;
+}
+	 
+
+#content{
+	width:100%;
+
+
+   
+}
+
+
+#content2{
+	width:100%;
+	
+    
+}
+
+	
+
+#content3{
+	width:100%;
+	
+
+    
+}
+
+
+#content4{
+	width:100%;
+	
+
+    
+}
+
+
+#Twddescripcion{
+    width: 95%;
+	clear:left;
+	position: absolute;
+	top:450px;
+	
+	
+	
+	
+	
+	
+	
+}
+
+
+#Contenido{
+	height: 660px;
+}
+
+
+
+#caja_cont4, #caja_cont5, #caja_cont6, #caja_cont7{
+	height: 30%;
+	width: 30%;
+	position:relative;
+	font-size:10px;
+	margin:10px 25px;
+	
+
+	
+	
+	
+
+}
+
+
+
+
+#text_4{
+	width: 95%;
+	height:95%;
+	font-size: 10px;
+	margin:3px;
+	
+}
+
+#caja_cont5 a{
+	text-align:center;
+	height: 40%;
+	width: 90%;
+	float: left;
+	font-size: 13px;
+	
+	
+	
+	
+		
+	}
+
+#caja_cont5 img{
+    margin:0px;
+
+
+	
+	
+}
+
+#caja_cont6{
+	height: 30%;
+	width: 85%;
+	position: relative;
+	bottom:90px;
+	
+
+}
+
+#caja_cont7{
+	width: 80%;
+	height: 1px;
+	position: relative;
+	bottom: 120px;
+	left:60px;
+	
+	
+	
+}
+
+#caja_cont7 video{
+	width: 100%;
+	position: relative;
+	top: 70px;
+	right: 57px;
+
+	
+
+}
+
+
+#Videos{
+	height: 870px;
+	
+	
+}
+
+#caja_cont8{
+    width:100%;
+	margin:45px;
+	
+
+
+	
+	
+}
+	
+#caja_cont9{
+	width:80%;
+	bottom:30px;
+	position: relative;
+}		
+	
+
+#twd_info{
+	height: 2800px;
+}
+
+#mod1_info{
+	height: 100%;
+	
+	
+	
+}
+
+
+
+#mod2_info{
+	height: 100%;
+	
+}
+
+
+
+
+
+		
+#Redes{
+    width: 100%;
+	
+
+	
+
+}
+
+#Social_media{
+	width: 40%;
+	height: 220px;
+	font-size:10px;
+	position: relative;
+	bottom: 30px;
+	right:20px
+}
+
+
+#Contact_us{
+	width: 80px;
+	right: 165px;
+	font-size: 10px;
+	top:200px;
+	position: relative;
+	padding: 10px;
+
+	
+
+}	
+
+#Contact_us img{
+	width: 90%;
+}
+
+
+
+
+#Sobre_nosotros{
+	width: 50%;
+	position:relative;
+	bottom: 320px;
+	left:0px;
+	padding: 2px 2px;
+	margin:5px;
+	font-size: 16px;
+	float:right
+	
+}
+	
+
+
+
+#marca img{
+	width:80%;
+	position: relative;
+	top:30px;
+	right: 30px;
+
+
+}
+
+
+
+#botonera{
+	width: 100%;
+    height: auto;
+    float: none;
+    margin: 0;   
+    
+}
+
+#botonera ul {
+	display: block;
+	
+	
+}
+
+
+
+#contactos {
+	width: 40%;
+	font-size: 10px;
+	position: relative;
+	bottom:220px;
+	left:140px;
+
+}}
+
+
+
